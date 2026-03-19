@@ -38,3 +38,46 @@ header {
 .review-card h3 {
     color: #B77466;
 }
+/* Add Review Section */
+.add-review {
+    background: #fff3e0;
+    padding: 30px;
+    text-align: center;
+}
+
+.add-review form {
+    max-width: 400px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.add-review input,
+.add-review textarea,
+.add-review select {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.add-review button {
+    background-color: #B77466;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.add-review button:hover {
+    background-color: #E2B59A;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}

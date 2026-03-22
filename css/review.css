@@ -45,9 +45,40 @@ header {
 /* Card image */
 .card-img{
     width: 100%;
-    height: 200px;
+    height: 190px;
     object-fit: cover;
     display: block;
+}
+.customer-img {
+    width: 80px;
+    height: 70px;
+    border-radius: 100%;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.customer-img-2 {
+    border-radius: 100%;
+    width: 80px;
+    height: 70px;
+    margin-top: 30px;
+}
+.customer-img-3 {
+    border-radius: 100%;
+    width: 80px;
+    height: 70px;
+    margin-top: 30px;
+}
+.customer-img-4 {
+    border-radius: 100%;
+    width: 80px;
+    height: 70px;
+    margin-top: 10px;
+}
+.customer-img-6 {
+    border-radius: 100%;
+    width: 80px;
+    height: 70px;
+    margin-top: 30px;
 }
 /* Stars */
 .stars{
